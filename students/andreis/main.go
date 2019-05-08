@@ -10,8 +10,6 @@ import (
 	"os"
 	"strings"
 	"time"
-
-	"github.com/fatih/color"
 )
 
 const timeToAnswer = 5 * time.Second
